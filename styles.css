@@ -115,3 +115,49 @@ width: 50%;
     font-size: 10px;
     margin-bottom: 10px;
 }
+
+/* banner section ends here */
+
+.card-container{
+    /* border: 1px solid red; */
+    width: 100%;
+    max-width: 1200px;
+}
+.card-text{
+    /* border: 1px solid green; */
+    width: 100%;
+    margin-left: 400px;
+     font-family: sans-serif;
+}
+.text-color{
+    color: rgb(204, 124, 213); 
+}
+
+.card-text p{
+    font-size: 10px;
+    font-family: none;
+    margin-left: 50px;
+   
+}
+
+.box-image{
+    /* border: 1px solid blueviolet; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 5px;
+    margin: 100px auto;
+    margin-top: 50px;
+    
+}
+.box-image img{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    /* margin: 0 10px; */
+    border-radius: 5px;
+
+}
+/* card section ends here  */
+
