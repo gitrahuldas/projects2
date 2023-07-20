@@ -214,3 +214,56 @@ width: 50%;
     padding-right: 80px;
 }
 
+/* play section ends here  */
+
+.button-container{
+    /* border: 1px solid red; */
+    /* min-height: 200px; */
+    margin-top: 100px;
+    background-color: snow;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.single-button{
+    /* border: 1px solid green; */
+    flex-basis: 200px;
+    transition: 1s;
+    width: 100px;
+    margin: 0 5px;
+    box-shadow: 0 0 5px 0px;
+    border-radius: 50px;
+}
+.single-button img{
+    width: 30px;
+    height: 30px;
+    display: block;
+    border-radius: 2px;
+       
+}
+.top-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+}
+.top-button p{
+    font-size: 11px;
+}
+.single-button:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+/* button section ends  */
+
+
+
+
+
+
+
+
+
