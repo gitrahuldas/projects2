@@ -259,10 +259,39 @@ width: 50%;
 
 /* button section ends  */
 
+.last-container{
+    min-height: 400px;
+    /* background-color: black; */
+    margin-top: 100px;
+
+}
+.footer-container{
+     display: flex;
+     justify-content: center;
+     align-items:center ;   
+}
+
+.g-section{
+    color: red;
+}
+.footer-container .footer-1 img{
+  
+   height: 25px;
+   margin-top: px;
+   margin-right: 10px;
+}
+.footer-container .footer-1 p{
+  
+   font-family: sans-serif;
+   font-size: 20px;
+   
+    /* color:white; */
+}
+
+   
 
 
-
-
+                                                  
 
 
 
